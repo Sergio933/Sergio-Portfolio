@@ -1,4 +1,3 @@
-# Sergio's Portfolio
 # [Airbnb Analysis - Customer Success team](https://lookerstudio.google.com/reporting/9baf93a3-eb10-420e-9440-858ae90347e4)
 
 This project has been made during my studies as a result of a team project on Looker Studio.
