@@ -8,3 +8,4 @@ Details:
 * Tools used: Looker Studio + [Google docs for tasks alignment](https://docs.google.com/document/d/1ZTxK1mKp3Q8a8lAPlQjo-S1WdWcRQus3kwOA6wcYySk/edit?usp=sharing)
 *separate paragraph*
 # [Project 2: Olist - Statistical and Financial Analysis](https://docs.google.com/presentation/d/1LTXM_TeRicqR2Z-Q4av-gwBArvBgF-UsWhiFRrVw7Os/edit?usp=sharing)
+_to be updated_
